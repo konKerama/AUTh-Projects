@@ -1,0 +1,20 @@
+Εργασία σε δικτυακό προγραμματισμό : Java serial communications 
+
+Echo request code : E2553 --> 21.01 4/12
+
+Image request code : M2507 (Tx/Rx error free) 
+
+Image request code : G7327 (Tx/Rx with errors)
+
+GPS request code : P0630 
+
+ACK result code : Q5770 -->21.10
+
+NACK result code : R9617 
+
+
+Διάρκεια εργαστηρίου από 20:59 έως 22:59 σήμερα 04-12-2016 
+
+Αριθμός φοιτητών/φοιτητριών online στο εργαστήριο : 8 
+
+Κώδικας Java για την εκκίνηση της εργασίας (seed code) virtualΜodem 
